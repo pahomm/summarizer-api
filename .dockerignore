@@ -1,0 +1,15 @@
+# Виртуальное окружение
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки VS Code
+.vscode/
+
+# Системные файлы
+.DS_Store
+
+# Файлы сборки Docker
+docker-build.log

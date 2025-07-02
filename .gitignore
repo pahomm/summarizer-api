@@ -1,0 +1,23 @@
+# Виртуальное окружение
+/venv/
+/.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Системные файлы macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Логи и артефакты сборки
+docker-build.log
+*.log
+
+# Файлы окружения
+.env
